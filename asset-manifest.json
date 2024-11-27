@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/porto/static/css/main.b8db6396.css",
+    "main.js": "/porto/static/js/main.e92d588a.js",
+    "static/js/453.176afc93.chunk.js": "/porto/static/js/453.176afc93.chunk.js",
+    "static/media/project-5.jpg": "/porto/static/media/project-5.c5a8a8994c3f6a835c43.jpg",
+    "static/media/profPict.jpg": "/porto/static/media/profPict.9651ab4913a7474f1ce3.jpg",
+    "static/media/project-1.jpg": "/porto/static/media/project-1.bcc7e26c955c34641864.jpg",
+    "static/media/Logo.webp": "/porto/static/media/Logo.97a247d70498374c4099.webp",
+    "static/media/CV_Friliyandre Yap.pdf": "/porto/static/media/CV_Friliyandre Yap.0e5248c3d44b910a6bfd.pdf",
+    "static/media/project-2.jpg": "/porto/static/media/project-2.d00cbd9fb6c2a971438f.jpg",
+    "static/media/project-3.jpg": "/porto/static/media/project-3.0c1083513a962bd926db.jpg",
+    "index.html": "/porto/index.html",
+    "main.b8db6396.css.map": "/porto/static/css/main.b8db6396.css.map",
+    "main.e92d588a.js.map": "/porto/static/js/main.e92d588a.js.map",
+    "453.176afc93.chunk.js.map": "/porto/static/js/453.176afc93.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8db6396.css",
+    "static/js/main.e92d588a.js"
+  ]
+}
